@@ -1,0 +1,5 @@
+total 36
+-rw-rw-r-- 1 antobadami antobadami     0 abr 10 09:52 data2.txt
+-rwxrwxr-x 1 antobadami antobadami 15968 abr 10 09:27 ej
+-rw-rw-r-- 1 antobadami antobadami   152 abr 10 09:22 ejercicio1.c
+-rwxrwxr-x 1 antobadami antobadami 15968 abr 10 09:25 ht
